@@ -69,7 +69,10 @@ User → OSINT VM → install.sh → osint.sh → Results Folder → Analysis
 ```bash
 git clone https://github.com/Daedalus46/OSINT-VM.git
 cd <repo-folder> 
-example CD Desktop/cloned_repository
+```
+Example
+```bash
+cd Desktop/cloned_repository
 ```
 
 ### 2. Make installer executable
