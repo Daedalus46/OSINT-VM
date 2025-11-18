@@ -82,10 +82,6 @@ Run install.sh two times for better results.
 ```bash
 sudo bash install.sh
 ```
-OR
-```bash
-./install.sh
-```
 ---
 
 ## 📸 Installation Preview
