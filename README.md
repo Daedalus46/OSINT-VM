@@ -5,7 +5,7 @@ Ubuntu Releases website : https://releases.ubuntu.com/
 
 Ubuntu 22.04.05 LTS Direct Download: https://releases.ubuntu.com/jammy/ (Download Desktop Image for VM) 
 
-#### NOTE : Check tickbox of Unintended installation when installing your ubunto in VM to get sudo privileges.
+#### NOTE : Check tickbox of Unintended installation when installing your ubuntu in VM to get sudo privileges.
 
 ---
 
