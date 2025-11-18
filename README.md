@@ -84,6 +84,7 @@ chmod +x install.sh
 Run install.sh two times for better results.
 ```bash
 sudo bash install.sh
+./install.sh 
 ```
 ---
 
